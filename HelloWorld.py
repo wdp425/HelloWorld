@@ -10,6 +10,8 @@
 
 print("hello world!")
 
+print("你好!")
+
 
 def main():
     pass
